@@ -6,8 +6,8 @@ from telethon import TelegramClient, events
 # ဒီနေရာမှာ သင့်ရဲ့ အချက်အလက်တွေကို အစားထိုးထည့်ပါ
 # ==========================================
 # my.telegram.org က ရယူထားသော api_id နှင့် api_hash ကို ထည့်ပါ
-API_ID = 28101956       # ဒီမှာ_API_ID_ကို_နံပါတ်သက်သက်_ထည့်ပါ
-API_HASH = "b8214efc0c5429aa32fc35e701399fc6"
+API_ID = 31809374       # ဒီမှာ_API_ID_ကို_နံပါတ်သက်သက်_ထည့်ပါ
+API_HASH = "9e3026dd9f9782e4c0002c983d1d11f9"
 
 # Channel ID (ဥပမာ- -1001234567890) သို့မဟုတ် Channel Username (ဥပမာ- @mychannel)
 SOURCE_CHANNEL = -1003112957551 
